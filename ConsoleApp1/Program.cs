@@ -60,7 +60,8 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(obj);
             }
-
+            Console.WriteLine();
+            Console.WriteLine("Tchau!!!");
             Console.ReadKey();
 
         }
